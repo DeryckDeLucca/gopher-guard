@@ -1,0 +1,9 @@
+{
+    "check_interval": 30,
+    "targets": [
+        "https://google.com",
+        "https://github.com",
+        "https://api.whatsapp.com",
+        "https://netflix.com"
+    ]
+}
