@@ -1,0 +1,11 @@
+# Binários
+main
+main.exe
+gopher-guard
+
+# Pastas de relatórios gerados (opcional, se quiser manter o histórico limpo)
+reports/*.md
+
+# Logs e variáveis de ambiente
+.env
+*.log
